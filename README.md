@@ -1,2 +1,2 @@
 # lbg-drift
-Standalone drift script for FiveM
+Simple drift script using Natives for FiveM
